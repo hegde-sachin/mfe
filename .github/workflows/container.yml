@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - "conatiner/**"
+      - "container/**"
 
 defaults:
   run:
